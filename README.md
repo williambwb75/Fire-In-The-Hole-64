@@ -1,10 +1,8 @@
 # Fire In The Hole 64 | Mod for Celeste 64
 Welcome to the official page for the "Fire In The Hole 64" mod! This mod brings the vibrant world of Geometry Dash into Celeste 64, featuring custom Geometry Dash faces on textures, Lobotomy Dash-inspired models, new dialogue, and an exclusive level named "Slopenheimer" with 6 hidden strawberries.
 
-Get the game this mod is for here: 
-https://maddymakesgamesinc.itch.io/celeste64
-ModDB Page: 
-https://www.moddb.com/mods/fire-in-the-hole-64
+Get the game this mod is for here; https://maddymakesgamesinc.itch.io/celeste64
+ModDB Page; https://www.moddb.com/mods/fire-in-the-hole-64
 
 <p float="left">
   <img src="logo.png" alt="Logo Image" width="240"/>
