@@ -1,9 +1,9 @@
 # Fire In The Hole 64 | Mod for Celeste 64
 Welcome to the official page for the "Fire In The Hole 64" mod! This mod brings the vibrant world of Geometry Dash into Celeste 64, featuring custom Geometry Dash faces on textures, Lobotomy Dash-inspired models, new dialogue, and an exclusive level named "Slopenheimer" with 6 hidden strawberries.
 
-Get the game this mod is for here; https://maddymakesgamesinc.itch.io/celeste64
+Get the game this mod is for here: https://maddymakesgamesinc.itch.io/celeste64
 
-ModDB Page; https://www.moddb.com/mods/fire-in-the-hole-64
+ModDB Page: https://www.moddb.com/mods/fire-in-the-hole-64
 
 <p float="left">
   <img src="logo.png" alt="Logo Image" width="240"/>
@@ -39,6 +39,27 @@ __Step 4__: Modify the levels.json File:
   }
 ```
 
+- With this JSON code in the file save it and close it. The file after the modifications should resemble somthing like this (this code below will not work you need to modify the file yourself. I used placeholders to demonstrate what it should look like without distributing any of the games files.)
+```json
+[
+    {
+	"ID": "0_PLACEHOLDER",
+	"Name": "Placeholder",
+	"Label": "This is a placeholder, the actial file does not have this",
+	"Strawberries": 0,
+	"Preview": "Placeholder",
+	"Map": "0"
+   },
+   {
+      "ID": "1_GEOMETERY_DASH",
+      "Name": "Slopenheimer",
+      "Label": "Fire in the hole!",
+      "Strawberries": 7,
+      "Preview": "Postcards/goggydash",
+       "Map": "Geometery Dash/test"
+   }
+]
+```
 ## Setup Complete
 
 You're all set! Launch Celeste 64, and you'll find the "Slopenheimer" level available to play (if not check you have done step 4 properly), complete with all the new mod features. Enjoy the fusion of Celeste and Geometry Dash, and thanks for playing "Fire In The Hole 64"!
