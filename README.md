@@ -42,3 +42,5 @@ You're all set! Launch Celeste 64, and you'll find the "Slopenheimer" level avai
 <p float="left">
   <img src="level.png" alt="Logo Image" width="240"/>
 </p>
+
+ModDB Page: https://www.moddb.com/mods/fire-in-the-hole-64
