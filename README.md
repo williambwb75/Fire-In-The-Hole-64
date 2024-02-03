@@ -2,9 +2,9 @@
 Welcome to the official page for the "Fire In The Hole 64" mod! This mod brings the vibrant world of Geometry Dash into Celeste 64, featuring custom Geometry Dash faces on textures, Lobotomy Dash-inspired models, new dialogue, and an exclusive level named "Slopenheimer" with 6 hidden strawberries.
 
 <p float="left">
-  <img src="logo.png" alt="Logo Image" width="360"/>
-  <img src="city.png" alt="City Image" width="360"/>
-  <img src="labotomy.png" alt="Labotomy Image" width="360"/>
+  <img src="logo.png" alt="Logo Image" width="240"/>
+  <img src="city.png" alt="City Image" width="240"/>
+  <img src="labotomy.png" alt="Labotomy Image" width="240"/>
 </p>
 
 ## Features
