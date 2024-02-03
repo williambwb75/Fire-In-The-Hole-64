@@ -3,7 +3,6 @@ Welcome to the official page for the "Fire In The Hole 64" mod! This mod brings 
 
 Get the game this mod is for here: 
 https://maddymakesgamesinc.itch.io/celeste64
-
 ModDB Page: 
 https://www.moddb.com/mods/fire-in-the-hole-64
 
