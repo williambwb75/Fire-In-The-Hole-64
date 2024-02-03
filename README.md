@@ -38,3 +38,7 @@ __Step 4__: Modify the levels.json File:
 ## Setup Complete
 
 You're all set! Launch Celeste 64, and you'll find the "Slopenheimer" level available to play (if not check you have done step 4 properly), complete with all the new mod features. Enjoy the fusion of Celeste and Geometry Dash, and thanks for playing "Fire In The Hole 64"!
+
+<p float="left">
+  <img src="level.png" alt="Logo Image" width="240"/>
+</p>
